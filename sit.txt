@@ -1,0 +1,54 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1"
+ttps://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=55866525&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIxIDc6NTk6MzIgUE0maGFzaF92YWx1ZT1uL1BxM3ZhMWQxVXdiRXJjY1dVcVB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I3NzM2NTItMWY2OC00MmVlLTkyNGItNDA5ZDE5MzA2ZTlm
+urlFilename	
+#EXTINF:-1 tvg-id="2"	
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-id="3"	
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w890189620.m3u8
+#EXTINF:-1 tvg-id="4"
+https://r3---sn-apn7en7e.googlevideo.com/videoplayback?expire=1621217412&ei=JHyhYNPnJ9C4mLAP8rCu6A8&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=ZZfVgVnnUpo.1&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=AF&mm=44%2C26&mn=sn-apn7en7e%2Csn-h5q7dned&ms=lva%2Conr&mv=u&mvi=3&pl=44&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=ixOiSULZ0TBMxX0NT66alwkF&gir=yes&mt=1621194921&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=lngrPj1aDLxVGw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMxLYu5lBxpEbt4RyiNCjpBWRqCbWmr9_bgh4EreH90YAiEAnpJoYB6hcOic6f0FMmC2Dll6NNuVfILA-nAXnJKYaDc%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhAOOHMpFdJKLE7MQ-nrOmAAdpTE8wyUFxYLqN1gHTnRGpAiEAg7nsx55rBb2e-Lmjq8WiMd57m2wMpaVP_oj0g5EeHpc%3D&alr=yes&cpn=7pPM0MZb1cAEXeBw&cver=1.20210510.1.0&sq=1354934&rn=38&rbuf=25871
+#EXTINF:-1 tvg-id="5"
+https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1621217552&ei=sHyhYMiyI-LJ1gaogLXICw&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=_-jNmd8zBFY.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=BV&mm=44%2C26&mn=sn-apn7en7e%2Csn-h5q7knee&ms=lva%2Conr&mv=m&mvi=1&pl=44&initcwndbps=1421250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=nMGbRu0sTou5lmn8WPk6ITwF&gir=yes&mt=1621195701&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=t9BtrtHzLzmR-Q&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAPOj18L-IBxqfjg0rZ2r73MDz-YTHBkNeAb6UTS4feZ6AiEAqD-dveNjjaq4MtLFxc8DVyCPIBIl28WwXUwJmN995RY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgHd1DpH8CNKJKN-33g1TDSKIl0OUovQhoRVyFbeRPdAwCIQCPUcejO4YvRVl0nwDaqv_C4WacaCROOWEq3sfZeHdcaQ%3D%3D&alr=yes&cpn=HGWFrQnEx5Ni4Grp&cver=1.20210510.1.0&sq=6619&rn=6&rbuf=9900
+#EXTINF:-1 tvg-id="6"
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1580964544.m3u8
+#EXTINF:-1 tvg-id="7"
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="8"
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?a8971c8b8923afd5ffc1f918f4dfa3bd
+#EXTINF:-1 tvg-id="9"
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
+#EXTINF:-1 tvg-id="10"
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="11"
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="12"
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="13"	
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+#EXTINF:-1 tvg-id="14"
+https://r1---sn-apn7en7l.googlevideo.com/videoplayback?expire=1621218515&ei=c4ChYK-OEYXBmwfYw7q4Dg&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=XfoUF8YkB7A.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Ni&mm=44%2C29&mn=sn-apn7en7l%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=1&pl=44&initcwndbps=1481250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=MIvVVloNMZkvvSwEHb4IZYQF&gir=yes&mt=1621196662&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=tEBBfyJEAKnwwg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMt9_O_Lp-v3eJ39vkpGpybrVegVSTV6_0tVxPSEmv-bAiEA7KeD-9GhHKf2q8aKddTXp4tDtkILC1yGzXeuhhXYWQA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKjMJQNbSmOr16jS8o6ldOcOp7FzuCqeabZIA3hwaKOUAiAwdBp-7ldPWp-Q5l7HXzgC6a4suA0mMUqXdw8rxNH3Vg%3D%3D&alr=yes&cpn=5n5nsfcIabH73Xvw&cver=1.20210510.1.0&sq=826218&rn=9&rbuf=14603
+#EXTINF:-1 tvg-id="15"
+https://r5---sn-apn7en7l.googlevideo.com/videoplayback?expire=1621218667&ei=C4GhYJ3UGtWsmLAPsLqloAw&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=oOcqSm7PMBU.2&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Ct&mm=44%2C29&mn=sn-apn7en7l%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=5&pl=40&initcwndbps=1438750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=ar098qo9NLGQoxgyPqcolzIF&gir=yes&mt=1621196915&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=rfFT5anj8y3oUQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgVLqiZTLeynK-V_4eOMm7-VvNCa2OhzT2K1mU_fVbo5ICIQC6cMSb57ulcK8PjKUjPuOBqBX0ZCGWTLaBzF3z0fHlRQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgP19J2e_nelCAUtrPv3gkQMoz6dEi57JSjHsH8w0ksY0CID0swz3tTkLZ2ByDFGiUI32wLFppp_cLG5L5bY1cIvih&alr=yes&cpn=2qnaxKqvB8-6yiLz&cver=1.20210510.1.0&sq=939629&rn=10&rbuf=14793
+#EXTINF:-1 tvg-id="16"
+https://r2---sn-apn7en7e.googlevideo.com/videoplayback?expire=1621218746&ei=WoGhYMe9OcK51waFnJPgBA&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=MXqKk4WEhsE.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C271%2C278%2C313&source=yt_live_broadcast&requiressl=yes&mh=sF&mm=44%2C26&mn=sn-apn7en7e%2Csn-h5q7kne6&ms=lva%2Conr&mv=m&mvi=2&pl=40&initcwndbps=1385000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=sUc8W9gVudgy2VJDAbhdJpcF&gir=yes&mt=1621196915&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=c_c6Hb85tNqmkQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgNyBe-b-oHzfh-Zmhlw2G91vKfEfC3dJkb29jI-kSkx8CIH3wEfLyr2CbGqXAcwuRLO6kgDFfwIIbaO3Tz4gXTbWQ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPHFCm0gbgA2Ze3pIZi1ZoedVfdxsmtz7ww2cECShFb6AiBp4sM4G_W-_1ZcYnbS1rgi23EKIQsol0MlnLvH7NAUFA%3D%3D&alr=yes&cpn=g0_d7ZtcMK7RLwc1&cver=1.20210510.1.0&headm=5&rn=3&rbuf=0
+#EXTINF:-1 tvg-id="17"
+https://r1---sn-apn7en7l.googlevideo.com/videoplayback?expire=1621218846&ei=voGhYO_ALIuR1wabgKjIDQ&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=1ZNCtDLUKHw.1&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=r4&mm=44%2C29&mn=sn-apn7en7l%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=1&pl=40&initcwndbps=1438750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=YxjxRz0rojUsARdOiVZ5m64F&gir=yes&mt=1621196915&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Pztu4uyfHOqcnQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgYKyU-aWCAGlUF3ETyPZH1zYV9d4rvjY917cwVPHSkVYCIQCkzqph_CpUkUNnizjogzgJKQydlfNzsgcKK6Nw0rXZEA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgCel66nv0AZ3YJa4HIOGC-dUfgVhXKrhh8T2SE_PRnngCIAaFOYfSr6OAD_ZljaQv4pmtgunPh_3awmsvYxMOKQO-&alr=yes&cpn=dG5LmJuprfy9ji7E&cver=1.20210510.1.0&sq=26373879&rn=5&rbuf=900
+#EXTINF:-1 tvg-id="18"
+https://r2---sn-apn7en7e.googlevideo.com/videoplayback?expire=1621218913&ei=AYKhYOujJsiW1gbCj6a4DA&ip=2001%3A818%3Aeb10%3A1800%3Adb4%3A11e4%3A4f66%3A4f0c&id=XBSRLazo64Y.2&itag=134&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=IU&mm=44%2C26&mn=sn-apn7en7e%2Csn-25glene6&ms=lva%2Conr&mv=m&mvi=2&pl=40&initcwndbps=1256250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=Ovhn3CwxcIghc_MZjrNi8yIF&gir=yes&mt=1621196915&fvip=2&keepalive=yes&fexp=24001373%2C24007246&beids=9466585&c=WEB_EMBEDDED_PLAYER&n=WEKi3oqKvLkWGg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgZRwYxkaPwss0z3ud9w9u3_XyefX53BFsVzABBzJQzGICIFHCrmMy1mapmF1fEL2r9Y2objrcXhAcT56M0WHFZKaT&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgRdRfkQDFQN5UEhCsOVPDOsUlBaLiQdXJJQv8g2ksBZ8CIQDL3jX6pLBF1PVeoh6LKjHUDnzld3ST6ovqgnPU4gVCgg%3D%3D&alr=yes&cpn=30jPHChDkMB2wp97&cver=1.20210510.1.0&sq=1435202&rn=5&rbuf=9895
+#EXTINF:-1 tvg-id="19"
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
